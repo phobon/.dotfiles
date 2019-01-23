@@ -1,6 +1,6 @@
 [user]
-  name = Stephen Wrathall
-  email = stephen.wrathall@agworld.com.au
+  name = Ben McCormick
+  email = exponen7@gmail.com
 [alias]
   co = checkout
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
@@ -13,7 +13,7 @@
   editor = vim
   autocrlf = input
 [github]
-  user = stwr667
+  user = phobon
 [merge]
   keepBackup = false;
   tool = p4merge
